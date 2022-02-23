@@ -1,4 +1,6 @@
-# Substrate Frontier Node Template
+# Frontier Node Template generated from latest branch of frontier.
+
+It contains latest substrate master branch and frontier master branch. 
 
 A [FRAME](https://docs.substrate.io/v3/runtime/frame)-based
 [Substrate](https://substrate.io) node with the Ethereum RPC support, ready for hacking
